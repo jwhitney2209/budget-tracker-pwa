@@ -2,8 +2,7 @@
 # Budget Tracker PWA
 
 ![badge](https://img.shields.io/badge/License-Open-brightgreen)<br>
-## [ Walkthrough Video ](https://www.youtube.com/watch?v=afnBV60BuB8)
-Click the link above for a walkthrough video demonstrating the functionality.
+
 
 ## Description
 Using Progressive Web Application (PWA) this application enables the user to add expenses and deposits to their budget with or without an online connection. When entering transactions offline, data should populate the total when connected back online.
